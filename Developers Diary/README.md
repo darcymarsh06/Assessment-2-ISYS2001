@@ -72,3 +72,7 @@ Now that my full code is complete, I've run many tests to make sure it can handl
 -	I tested an income of over $1000000 and it comes up with error and gives the user the parameters
 -	Then I tested the CSV data saving to make sure it remembers your previous expenses which worked right
 -	 I then tried lots of different entry combinations to make sure the outputs were correct and educational. 
+
+In my testing I also had the Error notification for incorrect Syntax but I hadn't altered my code so I corrected this by re-running the program from the beginning including reloading the gradio and genai uploads and this corrected it. 
+
+<img width="602" height="217" alt="Screen Shot 2026-10-16 at 9 31 41 am" src="https://github.com/user-attachments/assets/44428d3c-d4a4-4f14-a30f-b8470467a577" />
